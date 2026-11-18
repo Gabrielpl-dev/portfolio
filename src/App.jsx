@@ -54,7 +54,7 @@ export default function App() {
           <h1 id="hero-title">O modelo<br />é só uma<br /><span>parte.</span></h1>
           <p className="intro">Contexto. Ferramentas. Memória. Avaliação.<br />Construo o sistema que faz essas partes trabalharem juntas.</p>
           <a className="cta" href="#projetos">Inspecionar projetos <span aria-hidden="true">↓</span></a>
-          <p className="bio label">Gabriel · 17 anos · Autodidata<br />Arquiteto de sistemas de IA</p>
+          <p className="bio label">Gabriel · Autodidata<br />Arquiteto de sistemas de IA</p>
         </div><ExecutionDiagram />
       </section>
       <section className="projects" id="projetos" aria-labelledby="projects-title">
